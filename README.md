@@ -48,5 +48,19 @@ The main goal is to provide insights to green taxi drivers or any other stakehol
 
 Aside from the main goal, here we will try to uncover any **hidden information by drilling through the data into a very specific parts.**
 
-[Dashboard link](https://public.tableau.com/views/Book1_17173972444820/InteractiveDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-<br>[Tableau Story link](https://public.tableau.com/views/NYCTLCGreenTaxis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+# Conclusion & Recommendation
+
+**Conclusion:**
+
+In general, Upper Manhattan is the most promising borough to get a customer. Where zone of Harlem taking more than half of the total trips in Manhattan. The trend of demand is going upwards, indicating a potential increase of customers in this taxis category. Providing a room to growth. Weekdays have the most total trips with busy time at after hour or around 3pm to 6pm.
+
+In the night time (10pm to 5am), Queens becomes borough with the most total trips. Where the weekends total trips are higher than the weekdays. Lastly, Brooklyn is the only one borough that more crowded in weekends rather than in weekdays like other boroughs.
+
+**Recommendation:**
+
+1. For weekdays, you should go to Upper Manhattan in any area of Harlem. After hours is the best time to do it.
+2. If you want to do the job at night time (10pm to 5 am), you should try Queens. The best time to do it, is on weekends with peak time at 10pm to 12pm. You may go to Forest Hills or Jackson Heights.
+3. If you want to take a ride in Brooklyn, you better be doing it in weekends. At the time of 3pm to 8pm to the zones of Port Greene or Downtown Brooklyn.
+
+Dashboard link: [NYC TLC Green Taxis](https://public.tableau.com/views/Book1_17173972444820/InteractiveDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) <br>
+Tableau Story link: [NYC TLC Green Taxis Story](https://public.tableau.com/views/NYCTLCGreenTaxis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
