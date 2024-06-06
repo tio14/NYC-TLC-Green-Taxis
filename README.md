@@ -9,8 +9,7 @@ information for each taxi and for-hire vehicle trip completed by their licensed 
 They receive taxi trip data from the technology service providers (TSPs) that provide electronic 
 metering in each cab, and FHV trip data from the app, community livery, black car, or luxury 
 limousine company, or base, who dispatched the trip. In each trip record dataset, one row represents a single trip made by a TLC-licensed vehicle.
-
-<div><img src="asset\pictures\vehicle_type.png"><\div>
+<img src="asset\pictures\vehicle_type.png">
 
 
 [Dashboard link](https://public.tableau.com/views/Book1_17173972444820/InteractiveDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
