@@ -31,6 +31,22 @@ The same goes to the number of licensed vehicles. Where the number of licensed g
 
 <img src="asset/pictures/active_vehicle.png" width="500"> <img src="asset\pictures\licensed_vehicle.png" width="500">
 
+As the number of green taxis goes down, the daily average trips of green taxis were having the same problem. For three consecutive year (2016, 2017, 2018) the daily average trips of green taxis were **decreased** over the years.
+
+<img src="asset\pictures\daily_average_trip.png"> 
+
+# Data Analysis Goals
+
+As the demand for green taxis is decreased over the year. The easiest way is to change to an online taxi (FHV). But for some people that loves to work on their own schedule without affiliation to online taxis company. There's still a way out of this situation. By using the power of data, we will try to uncover a knowledge that hopefully can help green taxi drivers to maximize their potential. In this data analysis project, **we will use data of green taxi operations that populated in the month of January 2023**. You can download the dataset using [this link](https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-01.parquet).
+
+By delving deeper into specific aspects of taxi operations, we can uncover some truth that can provide a beneficial information for green taxi drivers. In this analysis we want to figure out the demand based on the region (borough & zone) and time. Hopefully this can tailor green taxi drivers in order to find their potential customers.
+
+The main goal is to provide insights to green taxi drivers or any other stakeholders that can assist in their strategy and decision-making by knowing the right place and the right moment. Here are several things that we want to know by looking at the data:
+1. Which borough have the most total trips and revenue?
+2. How is the distribution of trips and revenue in each borough?
+3. How are the daily, weekly, and hourly trends/patterns of total trips?
+
+Aside from the main goal, here we will try to uncover any **hidden information by drilling through the data into a very specific parts.**
 
 [Dashboard link](https://public.tableau.com/views/Book1_17173972444820/InteractiveDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 <br>[Tableau Story link](https://public.tableau.com/views/NYCTLCGreenTaxis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
