@@ -10,7 +10,7 @@ They receive taxi trip data from the technology service providers (TSPs) that pr
 metering in each cab, and FHV trip data from the app, community livery, black car, or luxury 
 limousine company, or base, who dispatched the trip. In each trip record dataset, one row represents a single trip made by a TLC-licensed vehicle.
 
-![Vehicle Type](https://github.com/tio14/NYC-TLC-Green-Taxis\asset\pictures\vehicle_type.png "Vehicle Type")
+<div><img src="asset\pictures\vehicle_type.png"><\div>
 
 
 [Dashboard link](https://public.tableau.com/views/Book1_17173972444820/InteractiveDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
